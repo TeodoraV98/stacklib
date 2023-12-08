@@ -12,3 +12,17 @@ C:\Users\Teodora.Valean\PersonalRepos\stacklib.DAL\obj\Debug\net6.0\refint\stack
 C:\Users\Teodora.Valean\PersonalRepos\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.pdb
 C:\Users\Teodora.Valean\PersonalRepos\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.genruntimeconfig.cache
 C:\Users\Teodora.Valean\PersonalRepos\stacklib.DAL\obj\Debug\net6.0\ref\stacklib.DAL.dll
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\bin\Debug\net6.0\stacklib.DAL.deps.json
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\bin\Debug\net6.0\stacklib.DAL.runtimeconfig.json
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\bin\Debug\net6.0\stacklib.DAL.dll
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\bin\Debug\net6.0\stacklib.DAL.pdb
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.csproj.AssemblyReference.cache
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.AssemblyInfoInputs.cache
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.AssemblyInfo.cs
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.dll
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\refint\stacklib.DAL.dll
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.pdb
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\stacklib.DAL.genruntimeconfig.cache
+C:\Users\Teodora.Valean\PersonalRepos\stacklib\stacklib.DAL\obj\Debug\net6.0\ref\stacklib.DAL.dll

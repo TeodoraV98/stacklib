@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6b5aR4UmFsPBFQierQ9wA4wjawT/C3K48e42PvCmpdkGzJKw5kpnsS/oGP43k9BKy4H7YbLovlyDw8kJD/tWbA==",
+  "dgSpecHash": "E5Plpbef7jsrIIikxzdC7Siw4r8ZRJEqwquYOXYzaAJ1i5EOx86KfL0ReS26cGMQtmBpWb8g1ZlGz5acgGUzog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teodora.Valean\\PersonalRepos\\stacklib.DAL\\stacklib.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Teodora.Valean\\PersonalRepos\\stacklib\\stacklib.DAL\\stacklib.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teodora.Valean\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Teodora.Valean\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqDDzLG3vHiiQ0XtUkEl1dQ9z9naZJmg3vNJt8K9r4F3niQJQtB7n/zfNA66ezvwzUtukOrmPDah2Uk9IcROUQ==",
+  "dgSpecHash": "aoMM1MrAFd8+vwfQdYw09gNtMe3kLDF+ycwrcJomPCHjJYhzzjhH+I+riyrFrB8VDQYwyCSbRqLb2kTn/yhLVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teodora.Valean\\PersonalRepos\\stacklib.BLL\\stacklib.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Teodora.Valean\\PersonalRepos\\stacklib\\stacklib.BLL\\stacklib.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teodora.Valean\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Teodora.Valean\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
